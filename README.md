@@ -1,6 +1,6 @@
 # 🧮 Sistema de Ecuaciones por Consola
 
-**Autores:** Valdo Castiglia, Gonzalo Giusiano, Shoan Genes  
+**Autores:** Valdo Castiglia, Giuliana Giusiano, Shoan Genes  
 **Profesor:** José Clavijo  
 **Fecha de entrega:** 17 de febrero de 2025
 
